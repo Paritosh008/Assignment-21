@@ -1,2 +1,2 @@
 # Assignment-21
-JavaScript
+Javascript DOM Assignment
